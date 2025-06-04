@@ -18,7 +18,7 @@
 ## 📊 GitHub Stats:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Relax-29&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact&nocache=1"/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Relax-29&theme=merko&hide_border=false&include_all_commits=true&count_private=true&nocache=1"/><br/>
-   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=arqam365&theme=merko&hide_border=false&nocache=1"/></a><br/>
+   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Relax-29&theme=merko&hide_border=false&nocache=1"/></a><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=Relax-29&theme=merko&hide_border=false&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&nocache=1"/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=Relax-29&theme=merko&hide_border=false&include_all_commits=true&count_private=true&nocache=1"/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Relax-29&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact&nocache=1"/><br/>
