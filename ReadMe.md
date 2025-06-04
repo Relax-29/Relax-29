@@ -1,4 +1,5 @@
-![github-header-image](https://github.com/user-attachments/assets/425074ab-1012-45e8-bb97-dc11eead63dd)
+
+![Screenshot 2025-06-04 223526](https://github.com/user-attachments/assets/25bb92ef-6233-43d6-af07-1e9473ff47e8)
 
 
 <h1 align="center">Hello there, I'm Mohit! 👋</h1>
