@@ -1,4 +1,4 @@
-![2000_600px](https://user-images.githubusercontent.com/62327688/230877301-70600165-5aba-4091-998b-c76af3cf0b27.gif)
+![2000_600px](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXpua2Q5d3U2d3NoYjlkejF3dWF0emhpcXoxdDkxZW5rMms4YXZuZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/fcD8myxERQPnj1Xmw4/giphy.gif)
 
 <h1 align="center">Hello there, I'm Mohit! 👋</h1>
 
