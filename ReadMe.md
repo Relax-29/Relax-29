@@ -1,4 +1,4 @@
-![2000_600px][github-header-image](https://github.com/user-attachments/assets/80c7489f-4271-4066-9e4c-0e5100edf2f7)
+![2000_600px]([github-header-image](https://github.com/user-attachments/assets/80c7489f-4271-4066-9e4c-0e5100edf2f7))
 
 <h1 align="center">Hello there, I'm Mohit! 👋</h1>
 
