@@ -1,4 +1,4 @@
-![2000_600px](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXpua2Q5d3U2d3NoYjlkejF3dWF0emhpcXoxdDkxZW5rMms4YXZuZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/fcD8myxERQPnj1Xmw4/giphy.gif)
+![2000_600px][github-header-image](https://github.com/user-attachments/assets/80c7489f-4271-4066-9e4c-0e5100edf2f7)
 
 <h1 align="center">Hello there, I'm Mohit! 👋</h1>
 
