@@ -1,4 +1,4 @@
-![github-header-image (1)](https://github.com/user-attachments/assets/215b9024-5db3-4c17-823a-5674425359fb)
+![1735055250992](https://github.com/user-attachments/assets/2d9b4cd8-eded-4e11-beaf-271b089cf9cf)
 
 
 <h1 align="center">Hello there, I'm Mohit! 👋</h1>
