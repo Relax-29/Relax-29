@@ -9,7 +9,39 @@
 </p>
 
 # 💫 About Me:
-🔭 I’m currently working on<br>🌑 A research project on enhancement of permanently shadowed regions in lunar craters using Chandrayaan-2 OHRC images<br>🌐 A global hackathon listing & blogging platform to keep devs updated on all things hackathons<br>🧠 An interactive educational site for learning frontend development through challenges and real-world tasks<br><br><br>🤝 I’m looking to collaborate on<br>Frontend-heavy web apps (React.js, Tailwind, Next.js)<br>Research involving remote sensing, space data, or machine learning<br>Hackathon and open-source projects that solve real-world problems<br><br><br>🙌 I’m looking for help with<br>Writing and publishing a strong research paper<br>Freelancing or landing a remote frontend developer job<br>Scaling full-stack apps (Next.js + backend optimization)<br><br>🌱 I’m currently learning<br>Next.js and backend development with Node.js & Express<br>Data visualization with D3.js<br>Scientific image processing with OpenCV<br>Building production-ready apps with TypeScript<br><br><br>💬 Ask me about<br>Frontend dev using HTML, CSS, JavaScript, React<br>Hackathon prep and project building<br>Space-tech projects, lunar research<br>GitHub projects and open-source contributions<br><br><br>⚡ Fun fact<br>I tried to explain my lunar crater research to my non-tech friends… now they think I work for NASA 🚀<br>I once spent 4 hours fixing a bug that was just a missing semicolon 😅<br>My browser has more tabs than my brain has RAM 🧠💥<br>I build websites by day, explore the Moon by night — basically a frontend astronaut 👨‍🚀🛠️<br><br><br>🎯💼 Available for<br>Freelance frontend/web dev projects<br>Remote frontend roles (React/Next.js based)<br>Research collaboration in remote sensing or lunar image enhancement<br>Mentorship or dev support in frontend tech
+🔭 I’m currently working on<br>
+🌑 A research project on enhancement of permanently shadowed regions in lunar craters using Chandrayaan-2 OHRC images<br>
+🌐 A global hackathon listing & blogging platform to keep devs updated on all things hackathons<br>
+🧠 An interactive educational site for learning frontend development through challenges and real-world tasks<br><br><br>
+🤝 I’m looking to collaborate on<br>
+Frontend-heavy web apps (React.js, Tailwind, Next.js)<br>
+Research involving remote sensing, space data, or machine learning<br>
+Hackathon and open-source projects that solve real-world problems<br><br><br>
+
+🙌 I’m looking for help with<br>
+Writing and publishing a strong research paper<br>
+Freelancing or landing a remote frontend developer job<br>Scaling full-stack apps (Next.js + backend optimization)<br><br>
+🌱 I’m currently learning<br>Next.js and backend development with Node.js & Express<br>Data visualization with D3.js<br>
+Scientific image processing with OpenCV<br>
+Building production-ready apps with TypeScript<br><br><br>
+
+💬 Ask me about<br>
+Frontend dev using HTML, CSS, JavaScript, React<br>
+Hackathon prep and project building<br>
+Space-tech projects, lunar research<br>
+GitHub projects and open-source contributions<br><br><br>
+
+⚡ Fun fact<br>
+I tried to explain my lunar crater research to my non-tech friends… now they think I work for NASA 🚀<br>
+I once spent 4 hours fixing a bug that was just a missing semicolon 😅<br>
+My browser has more tabs than my brain has RAM 🧠💥<br>
+I build websites by day, explore the Moon by night — basically a frontend astronaut 👨‍🚀🛠️<br><br><br>
+
+🎯💼 Available for<br>
+Freelance frontend/web dev projects<br>
+Remote frontend roles (React/Next.js based)<br>
+Research collaboration in remote sensing or lunar image enhancement<br>
+Mentorship or dev support in frontend tech
 
 
 ## 🌐 Socials:
